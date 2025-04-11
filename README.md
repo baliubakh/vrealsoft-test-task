@@ -36,3 +36,5 @@ This will:
 🧠 Serve backend on http://localhost:3001
 
 🌐 Serve frontend on http://localhost:3000
+
+📚 Serve documentation on http://localhost:3001/api
